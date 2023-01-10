@@ -1,1 +1,1 @@
-# odin-recipes
+basic recipe website to test HTML knowledge
