@@ -1,0 +1,19 @@
+h1 {
+    color: black;
+    font-family:'Courier New', Courier, monospace;
+    }
+
+img {
+    height: 400px;
+    width: 760px;
+}
+
+h2, h3 {
+    background-color: blanchedalmond;
+    font-style: oblique;
+    font-family: rockwell;  
+}
+
+li {
+    font-size: 18px;
+}
